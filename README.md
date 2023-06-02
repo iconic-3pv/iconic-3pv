@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There👋!! It's Vivek Pawar</h1>
-1. I am currently a student pursuing BTech in CSE(AIML).<br>2.<br>3.Learning and trying to Contribute in open-source .<br>4. <br>5. .
+1. I am currently a student pursuing BTech in CSE(AIML).<br>2.Exploring and learning web development<br>3.Looking to Contribute on open-source projects .<br>4.Goals :  to develope my skills.<br>5.Loves to watch sci-fi movies🤖.
 
 
 ## 🌐 Socials:
