@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey!! It's Vivek Pawar</h1>
-1. I am currently a student pursuing BTech in CSE(AIML).<br>2.<br>3.Trying to Contribute in open-source .<br>4. <br>5. I am passionate about Football (Can't miss a game).
+<h1 align="center">Hi There👋!! It's Vivek Pawar</h1>
+1. I am currently a student pursuing BTech in CSE(AIML).<br>2.<br>3.Learning and trying to Contribute in open-source .<br>4. <br>5. .
 
 
 ## 🌐 Socials:
